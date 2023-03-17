@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FigmaUI/.idea/FigmaUI.iml" filepath="$PROJECT_DIR$/../FigmaUI/.idea/FigmaUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MDL/.idea/MDL.iml" filepath="$PROJECT_DIR$/../MDL/.idea/MDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UI.iml" filepath="$PROJECT_DIR$/.idea/UI.iml" />
+    </modules>
+  </component>
+</project>
