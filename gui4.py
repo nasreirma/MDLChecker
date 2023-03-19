@@ -11,7 +11,7 @@ from tkinter import Tk, Canvas, Entry,  Button, PhotoImage , filedialog , Label 
 from tkinter.ttk import Progressbar , Style
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"C:\Users\User\Desktop\Figma\build\assets\frame0")
+ASSETS_PATH = OUTPUT_PATH / Path(r"assets/frame0")
 
 
 def relative_to_assets(path: str) -> Path:
